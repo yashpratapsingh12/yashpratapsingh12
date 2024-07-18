@@ -3,6 +3,7 @@
 <h3 align="center">Software engineer</h3>
 
 - 📫 How to reach me **yashpratapsingh577@gmail.com**
+- Resume <a href="https://instagram.com/yash_pratapsingh566" target="blank" >checkout</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
