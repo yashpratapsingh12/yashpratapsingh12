@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash pratap singh</h1>
 <h3 align="center">Software engineer</h3>
 
-- Resume <a href="https://instagram.com/yash_pratapsingh566" target="blank" >checkout</a>
+- Resume <a href="https://drive.google.com/file/d/1ByDUkGpVvfBh7u-__TFuaCPy1cRQQ6P1/view?usp=sharing" target="blank" >checkout</a>
 - How to reach me **yashpratapsingh577@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
