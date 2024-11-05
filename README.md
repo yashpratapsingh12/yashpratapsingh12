@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yash pratap singh</h1>
 <h3 align="center">Software engineer</h3>
 
-- Resume <a href="https://drive.google.com/file/d/1fSE-OMvhrgj2-9Krpylh6sdRw5Uacr9u/view?usp=sharing" >checkout</a>
 - How to reach me **yashpratapsingh577@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
